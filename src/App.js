@@ -43,7 +43,7 @@ export default function App() {
             onChange={(e) => setFromCur(e.target.value)}
             className="currency-select"
           >
-            <option value="USD">USD (United States Dollar)</option>
+            <option value="USD">USDS (United States Dollar)</option>
             <option value="EUR">EUR (Euro)</option>
             <option value="CAD">CAD (Canadian Dollar)</option>
             <option value="INR">INR (Indian Rupee)</option>
